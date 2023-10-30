@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brinto-evident
+- 👋 Hi, I’m Brinto ** @brinto-evident **
 - 👀 I’m interested in Artificial Intelligence, Problem Solving, Sports and Gaming
 - 🌱 I’m currently working as a Jr. Software Engineer at EVIDENT BD LTD ...
 - 📫 Reach me at kbsbrinto@gmail.com
