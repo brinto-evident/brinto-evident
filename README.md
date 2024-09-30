@@ -13,7 +13,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/khalid-bin-shafiq/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://github.com/brinto-evident" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 8px"></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/khalid-bin-shafiq/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://github.com/brinto-evident" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 8px"></a></p>
 
  **<h4 align="left">🚀 I am a skilled Software Engineer, Data Scientist, and ML/DL Engineer. I am experienced and highly skilled professional with a proven track record of success. I have a degree in Computer Science and several years of experience in software engineering, data science, and machine learning/deep learning. I have worked on a wide range of projects, from building data pipelines to developing machine learning models for predictive analytics.</h4>**
 
